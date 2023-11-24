@@ -1,8 +1,7 @@
 import os
 import json
 import requests
-import urllib
-import pandas as pd
+
 
 base_url_origen = os.getenv("URL")
 

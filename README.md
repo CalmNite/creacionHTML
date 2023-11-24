@@ -1,3 +1,6 @@
-# creacionHTML
+# Creación de HTML de manera dinámica
 
-En este repositorio, se automatiza la creación de HTMLS a través de python. Estos HTMLS tienen la misma estructura pero se recupera de la base de datos distinta información para rellenarlos.
+## Descripción
+Este proyecto de Python es un programa automatizado diseñado para interactuar con APIs externas con el fin de recopilar datos específicos. Su función principal es extraer información de manera eficiente y confiable, procesarla según las necesidades del usuario y luego presentarla de una manera accesible y visualmente atractiva a través de la generación dinámica de archivos HTML.
+
+
